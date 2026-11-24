@@ -2,7 +2,7 @@
 
 Repo z specyfikacją i kodem skilla Claude do pisania maili biznesowych po polsku. Skill czyta wątek, dobiera styl (dwie opcje), pisze głosem autora i robi szkic. Wymagania: `docs/wymagania.md`. Badania: `docs/research/`.
 
-**Prywatność:** repo jest publiczne. Nigdy nie commituj prawdziwych maili, nazwisk, danych dostawców ani profilu stylu z prawdziwych próbek. Używaj tylko zanonimizowanych przykładów.
+**Prywatność:** repo jest publiczne. Nigdy nie commituj prawdziwych maili, nazwisk ani danych dostawców i klientów. Przykładowe maile muszą być zanonimizowane. Wyjątek: profil głosu autora może być w repo jako przykładowy, ale bez cytatów z prawdziwych maili.
 
 ## Agent skills
 
