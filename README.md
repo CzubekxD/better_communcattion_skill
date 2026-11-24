@@ -27,5 +27,5 @@ docs/
 | # | Raport | Status |
 |---|---|---|
 | 01 | [Przegląd gotowych skilli](docs/research/01-przeglad-gotowych-skilli.md) | gotowy |
-| 02 | Dobór stylu komunikacji maila | w toku |
-| 03 | Ocena starego Gema God Mode / Shadow | w toku |
+| 02 | [Dobór stylu komunikacji maila](docs/research/02-dobor-stylu-komunikacji.md) | gotowy |
+| 03 | [Ocena starego Gema God Mode / Shadow](docs/research/03-ocena-gema-god-mode-shadow.md) | gotowy |

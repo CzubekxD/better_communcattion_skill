@@ -9,6 +9,10 @@
 3. **Głos autora.** Skill pisze maila stylem użytkownika, na podstawie jego wcześniejszych maili.
 4. **Szkic.** Skill tworzy szkic maila.
 
+## Decyzje
+
+- **Szkic osobno od rozmowy (2026-11-24).** Gotowy mail powstaje w osobnym oknie, czyli jako osobny plik lub artefakt do skopiowania. Nigdy w środku odpowiedzi. Analiza, opcje stylu i „dlaczego” zostają w odpowiedzi. W oknie szkicu jest **tylko treść maila**: bez tematu i bez komentarzy, żeby przy kopiowaniu nie wkleić czegoś niepoprawnego. Ewentualny proponowany temat trafia do odpowiedzi w rozmowie.
+
 ## Kontekst
 
 - Użytkownik: lider OPEX w zakładzie motoryzacyjnym (centrala we Francji). Pisze po polsku, czasem po angielsku.
